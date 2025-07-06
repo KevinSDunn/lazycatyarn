@@ -1,0 +1,23 @@
+{
+  "name": "lazycatyarn",
+  "version": "1.0.0",
+  "description": "Bootstrap Website for lazycatyarn.com",
+  "homepage": "https://github.com/KevinSDunn/lazycatyarn#readme",
+  "bugs": {
+    "url": "https://github.com/KevinSDunn/lazycatyarn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinSDunn/lazycatyarn.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
