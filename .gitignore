@@ -174,3 +174,10 @@ hugo.linux
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+#
+# Mac File System
+#
+.DS_Store
+.AppleDouble
+.LSOverride
